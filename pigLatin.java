@@ -62,7 +62,7 @@ public class pigLatin {
 			String beforevowel = translate.substring(0,i); //Records letters until vowel is read
 			
 			//For Debug
-			System.out.println(beforevowel);
+			//System.out.println(beforevowel);
 			
 			
 			if(first=='a' || first=='e' || first=='i' || first=='o' || first=='u')
